@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the paper below."
+title: "ReFTIR: Hardware and Software"
+authors:
+  - family-names: Kitada
+    given-names: Kotaro
+  - family-names: Takemura
+    given-names: Kentaro
+repository-code: "https://github.com/ktakemura0427/reftir"
+license:
+  - MIT
+  - CERN-OHL-P-2.0
+keywords:
+  - Multitouch sensing
+  - Repropagated FTIR
+  - pseudo-inverse ray tracing
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Kitada
+      given-names: Kotaro
+    - family-names: Takemura
+      given-names: Kentaro
+  title: "ReFTIR: Multitouch Sensing using FTIR Images Reconstructed based on Repropagated FTIR"
+  journal: "Proc. ACM Hum.-Comput. Interact."
+  publisher:
+    name: "Association for Computing Machinery"
+  year: 2026
+  month: 11
+  volume: 10
+  issue: "8"
+  number: "ISS033"
+  pages: 21
+  doi: "10.1145/3859345"
+  url: "https://doi.org/10.1145/3859345"
